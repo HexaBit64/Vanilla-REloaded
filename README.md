@@ -1,8 +1,6 @@
 # Vanilla: REloaded
 ###### By HexaBit_
 
-[TOCM]
-
 Uno dei caratteri di Minecraft che salta all'occhio subito è la sua grafica semplice e minimalista. Vanilla: REloaded è una texture pack che migliora degli aspetti di Minecraft senza rovinare il classico look 16x16 che tutti amano. Utile sia ai giocatori meno esperti sia ai giocatori più tecnici. Si consiglia l'utilizzo di [OptiFine](https://optifine.net/downloads "OptiFine") che, anche se non è obbligatorio, migliora l'esperienza di gioco notevolmente.
 
 *P.S. : Questo pacchetto è un WIP, usciranno aggiornamenti quando avrò idee o quando avrò voglia.*
@@ -10,6 +8,7 @@ Uno dei caratteri di Minecraft che salta all'occhio subito è la sua grafica sem
 ------------
 
 ## Cambiamenti
+
 - ### Modelli custom
 Modelli 3D custom per:
 	- Porte e Botole, diversi per materiale
@@ -44,6 +43,7 @@ Cambia il colore del fusto di Zucca, rendendolo arancione per differenziarlo dal
 
 
 ## Contenuti aggiuntivi
+
 - ### Fogliame più denso
 Un cambiamento completamente estetico, rende le foglie più cespugliose. Se si utilizza OptiFine, si consiglia di utilizzare l'impostazione "Intelligente" trovata sotto:
 
@@ -64,11 +64,29 @@ Varianti più chiare o più scure, rende i paesaggi naturali meno monotoni. Sono
 	- Scalini di pietra
 
 - ### Blocchi infestati visibili
-I blocchi infestati da Pesciolini d'argento saranno evidenziati da un quadrato rosso posto in mezzo al blocco.
+I blocchi infestati da Pesciolini d'argento sono evidenziati da un quadrato rosso posto in mezzo al blocco.
 
 - ### Ninfee fiorite
 Le Ninfee hanno la possibilità di avere un fiore bianco, rosa o viola.
 
 - ### Livello potenza visibile
 La Pietrarossa ha indicato il potenziale rimasto.
+
+------------
+
+## Esclusive OptiFine
+
+- ### Libri incantati custom
+I libri hanno una texture custom a seconda dell'incantesimo prevalente.
+
+- ### Colori custom
+Il cielo e l'acqua hanno dei colori custom, a seconda del bioma in cui si è. La pietrarossa ha anch'essa dei colori custom per vedere facilmente il potenziale rimasto.
+
+- ### Texture custom
+Texture diverse per dimensione. Sono stati cambiati i seguenti blocchi:
+	- Bedrock
+	- Portale del Nether
+	- Ossidiana
+
+
 
