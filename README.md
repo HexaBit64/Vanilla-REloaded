@@ -11,27 +11,31 @@ Uno dei caratteri di Minecraft che salta all'occhio subito è la sua grafica sem
 
 - ### Modelli custom
 Modelli 3D custom per:
-	- Porte e Botole, diversi per materiale
-	- Binari, diversi per tipo e orientamento
-	- Sbarre di ferro
-	- Scala a pioli
-	- Rampicante
-	- Tagliapietre
+
+
+    Porte e Botole, diversi per materiale
+    Binari, diversi per tipo e orientamento
+    Sbarre di ferro
+    Scala a pioli
+    Rampicante
+    Tagliapietre
 
 - ### Modelli 3D nell'inventario
 Gli oggetti 3D che venivano renderizzati con una texture 2D nell'inventario adesso hanno il proprio modello. Sono stati cambiati i seguenti oggetti:
-	- Comparatore
-	- Tramoggia
-	- Ripetitore
-	- Barche (di tutti i tipi)
-	- Campana
-	- Alambicco
-	- Torta
-	- Fuoco da campo
-	- Carrelli da miniera (di tutti i tipi)
-	- Vaso da fiori
-	- Lanterna
-	- Uovo di tartaruga
+
+
+    Comparatore
+    Tramoggia
+    Ripetitore
+    Barche (di tutti i tipi)
+    Campana
+    Alambicco
+    Torta
+    Fuoco da campo
+    Carrelli da miniera (di tutti i tipi)
+    Vaso da fiori
+    Lanterna
+    Uovo di tartaruga
 
 - ### Grano più alto
 Rende il grano più alto per simulare la realtà.
@@ -47,21 +51,24 @@ Cambia il colore del fusto di Zucca, rendendolo arancione per differenziarlo dal
 - ### Fogliame più denso
 Un cambiamento completamente estetico, rende le foglie più cespugliose. Se si utilizza OptiFine, si consiglia di utilizzare l'impostazione "Intelligente" trovata sotto:
 
-    
+
     Opzioni... > Grafica... > Dettagli... > Alberi: Intelligente
-    
+
 
 - ### Varianti di Erba alta
 Varianti di erba alta più alte o basse, rende le pianure più dinamiche.
 
 - ### Varianti chiaro/scuro
 Varianti più chiare o più scure, rende i paesaggi naturali meno monotoni. Sono stati cambiati i seguenti blocchi:
-	- Blocco d'erba
-	- Sentiero d'erba
-	- Sabbia
-	- Pietra
-	- Lastra di pietra
-	- Scalini di pietra
+
+
+    Blocco d'erba
+    Sentiero d'erba
+    Sabbia
+    Pietra
+    Lastra di pietra
+    Scalini di pietra
+
 
 - ### Blocchi infestati visibili
 I blocchi infestati da Pesciolini d'argento sono evidenziati da un quadrato rosso posto in mezzo al blocco.
@@ -84,9 +91,12 @@ Il cielo e l'acqua hanno dei colori custom, a seconda del bioma in cui si è. La
 
 - ### Texture custom
 Texture diverse per dimensione. Sono stati cambiati i seguenti blocchi:
-	- Bedrock
-	- Portale del Nether
-	- Ossidiana
 
 
+    Bedrock
+    Portale del Nether
+    Ossidiana
+
+
+- ### Supporto per Connected Texture Mod
 
